@@ -1,0 +1,6 @@
+driverInstance\Driver.class
+step_definitions\AddBasketWithLoggingStep.class
+testRunner\Runner.class
+PageObject\AddBasketWithLoggingPage.class
+PageObject\AddBasketWithoutLoggingPage.class
+step_definitions\AddBasketWithoutLoggingStep.class
